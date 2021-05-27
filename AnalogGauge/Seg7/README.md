@@ -1,5 +1,14 @@
 # 七段顯示器辨識
 
+# Breakdown 分析
+
+![image](https://user-images.githubusercontent.com/68286984/119848650-909cba00-bf3e-11eb-8b8e-1c699c4cd203.png)
+
+# 設計
+
+![image](https://user-images.githubusercontent.com/68286984/119848684-98f4f500-bf3e-11eb-829d-ee16faa60a5c.png)
+
+
 # 框出七段數字 
 1. 二值化之後，使用開運算去除白點，再用閉運算增強七段之間縫隙。
 2. 找出輪廓 > 切割。
