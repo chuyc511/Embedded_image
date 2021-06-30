@@ -1,9 +1,5 @@
 # 程式架構
-  1.Main.py
-  2.UserForm.py
-  3.Seven_Segment.py
-  4.Perspective.py
-  5.Gauge_Pointer.py
+![image](https://user-images.githubusercontent.com/68286984/123955068-c7516e80-d9db-11eb-8dee-cac9edccf537.png)
 
 
   
